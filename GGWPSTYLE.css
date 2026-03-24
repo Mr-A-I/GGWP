@@ -1,0 +1,20 @@
+/* Custom styling for the dropdown menu background */
+#nav-list {
+  background-color: #f8f8f8;
+  margin: 0;
+}
+
+/* Ensure the section is tall enough to force scrolling */
+.main-content {
+  background-color: #e7e7e7;
+  height: 1100px;
+  padding: 20px;
+  margin-top: 20px;
+  border: 1px solid #ccc;
+}
+
+/* Optional: styling the nav items to look better on mobile */
+#nav-list li a {
+  border-bottom: 1px solid #ddd;
+  color: #555;
+}
